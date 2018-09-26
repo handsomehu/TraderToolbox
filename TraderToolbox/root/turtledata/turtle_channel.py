@@ -1,6 +1,6 @@
 '''
 Created on Aug 9, 2018
-Automatic update turtle single using tushare
+Automatic update turtle signal using tushare
 @author: I038825 Leon Zhao
 '''
 import sys
